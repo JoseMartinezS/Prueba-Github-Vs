@@ -9,6 +9,7 @@ namespace ProyectoDePruebaParaGitHub
     static class Program
     {
         /// <summary>
+        /// Modificado por Marcos Palomo
         /// Punto de entrada principal para la aplicación.
         /// </summary>
         [STAThread]
