@@ -1,2 +1,2 @@
 # Prueba-Github-Vs
-PruebaVs-gIT
+Primer proyecto de la materia, editado por un compañero (Marcos Palomo Cabral)
